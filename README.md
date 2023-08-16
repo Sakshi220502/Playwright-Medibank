@@ -5,10 +5,12 @@ This repo contains Playwright with mocha-chai for UI test cases as per assessmen
 
 Task 1: Select a public website and write a couple of test scripts in &quot;Playwright&quot; Test automation tool
 covering below framework principles
- Input Data reading from external file (your choice of file format)
- POM
- Reporting in html / CICD compatible report
- Execution command line options to run on variety of supported browsers
+
+* Input Data reading from external file (your choice of file format)
+* POM
+* Reporting in html / CICD compatible report
+* Execution command line options to run on variety of supported browsers
+
 Tests can be small, navigating to a few pages. Interacting with elements on page, Login (if possible)
 and validation. You can use language as JavaScript or Typescript to create scripts.
 
