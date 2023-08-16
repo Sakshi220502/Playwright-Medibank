@@ -12,11 +12,13 @@ covering below framework principles
 Tests can be small, navigating to a few pages. Interacting with elements on page, Login (if possible)
 and validation. You can use language as JavaScript or Typescript to create scripts.
 
+Answers:
 
->> login data is read from testData.csv under data folder under test
->> POM has been craeted for login page and product list page
->> Report is being generated in html & json format -- mochawesome report. open the .html extension file under mochawesome-report through file explorer / finder or directly in chrome using "file:/// <file path>"
->> execution commands to run test on diferrent browser is as below:
+1. Login data is read from testData.csv under data folder under test
+2. POM has been craeted for login page and product list page
+3. Report is being generated in html & json format -- mochawesome report. open the .html extension file under mochawesome-report through 
+   file explorer / finder or directly in chrome using "file:/// <file path>"
+4. Execution commands to run test on diferrent browser is as below:
 
 ## Execute Tests
 
