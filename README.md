@@ -1,7 +1,7 @@
 # Playwright-Medibank
 This repo contains Playwright with mocha-chai for UI test cases as per assessment questions
 
-## Medibank Test Scenario
+## Test Scenario
 
 Task 1: Select a public website and write a couple of test scripts in &quot;Playwright&quot; Test automation tool
 covering below framework principles
